@@ -1,0 +1,4 @@
+com.ganesha.client=com.ganesha.owner
+com.ganesha.client.basepackage=com.ganesha.owner.sipdah
+com.ganesha.client.basepackage.modules=com.ganesha.owner.sipdah.modules
+com.ganesha.client.basepackage.model=com.ganesha.owner.sipdah.model
